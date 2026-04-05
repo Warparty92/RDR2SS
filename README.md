@@ -20,4 +20,7 @@ I'll keep an eye on the issues to determine what needs fixing
 
 # Heads up
 This is my first coding project, and I have limited coding knowledge.
-Feel free to create your own versions
+Feel free to create your own versions!
+
+# Comunity involvement
+At your discretion I will be willing to upload edits and modifications on the main timeline along with credits.
