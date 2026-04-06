@@ -76,7 +76,7 @@ def resource_path(relative_path):
 root.title("RDR2 Save Selector")
 root.geometry("400x100")
 root.resizable(False, False)
-icon_path = resource_path("RDR2SS.ico")
+icon_path = resource_path("Images" "\\" "RDR2SS.ico")
 root.iconbitmap(icon_path)
 
 def load_save():
