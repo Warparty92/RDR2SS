@@ -4,7 +4,6 @@ Red Dead Redemption 2 Save Selector
 # Is this stable?
 From some personal testing, it works well on my end.\
 I'll keep an eye on the issues to determine what needs fixing
-# This is an inital release and is not refined!
 
 # How to use?
 1: Install exe and run\
