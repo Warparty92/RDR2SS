@@ -2,8 +2,8 @@
 Red Dead Redemption 2 Save Selector
 
 # Is this stable?
-From some personal testing, it works well on my end.\
-I'll keep an eye on the issues to determine what needs fixing
+RDR2SS is still in development and I'm experencing some minor problems.\
+I hope to be able to fix these and provide a working exe sometime in the near future.
 
 # How to use?
 1: Install exe and run\
